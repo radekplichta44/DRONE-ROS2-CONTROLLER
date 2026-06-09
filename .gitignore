@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+install/
+log/
+*.pgm
+*.data
+*.posegraph
